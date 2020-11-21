@@ -55,7 +55,7 @@
 <div class="clearfix"></div>
 
 <div style="padding:6px;">
-  <p>I dont have picture in Elementary so enjoy!!!!</p>
+  <p>I dont have picture in Elementary sorry</p>
 </div>
 
   <!-- Site footer -->
