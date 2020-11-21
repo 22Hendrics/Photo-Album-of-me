@@ -37,7 +37,7 @@
 <div class="responsive">
   <div class="gallery">
     <a  href="Senior High.php">
-      <img src="dim.jpg" alt="Mountains" width="600" height="400">
+      <img src="dim.JPG" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">Senior High</div>
   </div>
@@ -46,7 +46,7 @@
 <div class="responsive">
   <div class="gallery">
     <a  href="College.php">
-      <img src="dim.jpg" alt="Mountains" width="600" height="400">
+      <img src="dim.JPG" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">College</div>
   </div>
