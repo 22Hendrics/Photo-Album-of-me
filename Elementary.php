@@ -30,7 +30,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="Koala.jpg">
-      <img src="Picture/Koala.jpg" alt="Forest" width="600" height="400">
+      <img src="Koala.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Koala</div>
   </div>
