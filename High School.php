@@ -20,7 +20,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="img_5terre.jpg">
-      <img src="Picture/w1.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="w1.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -29,8 +29,8 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a href="Picture/Koala.jpg">
-      <img src="Picture/w2.jpg" alt="Forest" width="600" height="400">
+    <a href="Koala.jpg">
+      <img src="w2.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -39,7 +39,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="img_lights.jpg">
-      <img src="Picture/w3.jpg" alt="Northern Lights" width="600" height="400">
+      <img src="w3.jpg" alt="Northern Lights" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -48,7 +48,7 @@
 <div class="responsive">
   <div class="gallery">
     <a href="img_mountains.jpg">
-      <img src="Picture/w4.jpg" alt="Mountains" width="600" height="400">
+      <img src="w4.jpg" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
